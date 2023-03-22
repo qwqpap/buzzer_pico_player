@@ -7,3 +7,5 @@ using buzzer to play music on raspberry pico
 其升半音就是-5.5
 以0.5步长，-6代表降一调的do，1是正常的do，一直到14。5，也就是si升调加半音，15保留作为休止符
 请务必确保多通道列表长度相同，不然可能会不工作sorry
+##写谱软件
+https://github.com/ADreamToday/musicSheetDecode
